@@ -28,3 +28,7 @@ it stays the same because it is over the roll limit
 #10 I get Error: non-static method getValue() cannot be referenced from a static context
 
 #11 Error: '.class' expected
+
+#12 if((replacementValue >= 0) && (replacementValue <= limit)) {
+When it was < only the getValue was at 0
+Now with the <= its at 10 because it of the equal so its like greater or equal than
