@@ -49,3 +49,9 @@ Now with the <= its at 10 because it of the equal so its like greater or equal t
 
 #18  If I create a number display with a limit of 1000 and the set value is 123. It returns 123 there is no 2 digit String
 
+#19 if I dont int x = 12
+"" + x
+Its gonna say "12" (string)
+same thing with "" + x
+
+#20
