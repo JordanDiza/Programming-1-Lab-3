@@ -32,3 +32,12 @@ it stays the same because it is over the roll limit
 #12 if((replacementValue >= 0) && (replacementValue <= limit)) {
 When it was < only the getValue was at 0
 Now with the <= its at 10 because it of the equal so its like greater or equal than
+
+#13 It should be 0 because value is scrictly > than 0
+
+#14 Negative numbers like -1 or -5
+
+#15 When its false the answer is and when its true the asnwer is false because boolean is the opposite
+
+#16 if(a && b) = (!a && !b)
+ 
