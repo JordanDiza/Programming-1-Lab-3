@@ -54,4 +54,9 @@ Now with the <= its at 10 because it of the equal so its like greater or equal t
 Its gonna say "12" (string)
 same thing with "" + x
 
-#20
+#20 So for 9+3+"cat" I get 12cat
+while for "cat"+3+9 I get cat39
+
+In the first expression they do the math first
+for the second they saw the string first so they decided to stick them all togheter
+
