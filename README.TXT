@@ -24,3 +24,7 @@ When I put a number greater than 24 the getValue stays at 3
 it stays the same because it is over the roll limit
 
 #9 I predict that the get value will be at 0
+
+#10 I get Error: non-static method getValue() cannot be referenced from a static context
+
+#11 Error: '.class' expected
