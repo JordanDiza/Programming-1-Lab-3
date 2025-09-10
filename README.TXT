@@ -40,4 +40,10 @@ Now with the <= its at 10 because it of the equal so its like greater or equal t
 #15 When its false the answer is and when its true the asnwer is false because boolean is the opposite
 
 #16 if(a && b) = (!a && !b)
- 
+
+#17 (a && !b) || !(a && b) 
+&& = and
+|| = or 
+! = switch so if its true it goes to false
+() = boolean condition
+
